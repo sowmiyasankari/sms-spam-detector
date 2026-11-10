@@ -8,7 +8,7 @@
 
 ### Execution Screenshot
 
-![Spam Detector Output](spam-detector-output.png)
+![SMS Spam Detector Output](spam-detector-output.png.png)
 ## Ideas to extend
 - Replace the dataset with the full UCI SMS Spam Collection
 - Add a Flask/Streamlit web UI
